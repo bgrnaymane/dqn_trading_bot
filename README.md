@@ -5,7 +5,7 @@ In diesem Repository befindet sich der Code für das Trainieren und Evaluieren d
 ## Installation
 1. Verwenden des folgenden Befehl, um das Repository in ein lokales Verzeichnis zu klonen: `git clone bgrnaymane/dqn_trading_bot.git`
 2. Sicherstellen, dass die erforderlichen Abhängigkeiten installiert sind, indem der folgende Befehl ausgeführt wird: `pip install -r requirements.txt`
-3. Anschließend führen Sie die Datei "reinforcement_learning_abgabes.ipynb" aus, um das Projekt auszuführen
+3. Anschließend führen Sie die Datei "reinforcement_learning_abgabe.ipynb" aus, um das Projekt auszuführen
 
 ## Quellen
 
