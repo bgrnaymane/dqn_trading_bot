@@ -1,0 +1,5 @@
+numpy,
+torch,
+yfinance,
+scikit-learn.
+matplotlib,
