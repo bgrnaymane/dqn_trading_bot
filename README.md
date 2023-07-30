@@ -1,6 +1,6 @@
 # Reinforcement Learning Portfolio Submition
 
-In diesem Repository finden Sie Code für das Training und die Evaluierung des Reinforcement-Learning-Modells unter Verwendung einer Umgebung, die für einen RL-Handelsagenten entwickelt wurde.
+In diesem Repository befindet sich der Code für das Trainieren und Evaluieren des Reinforcement-Learning-Modells unter Verwendung einer Umgebung, die für einen RL-Handelsagenten entwickelt wurde.
 
 ## Installation
 1. Verwenden des folgenden Befehl, um das Repository in ein lokales Verzeichnis zu klonen: `git clone bgrnaymane/dqn_trading_bot.git`
