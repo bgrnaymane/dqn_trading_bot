@@ -3,3 +3,5 @@ torch,
 yfinance,
 scikit-learn.
 matplotlib,
+numpy,
+pandas,
